@@ -1,0 +1,1 @@
+These are notes that I've taken while reading "Secrets of a Javascript Ninja" 
